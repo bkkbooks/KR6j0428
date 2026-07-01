@@ -1,0 +1,498 @@
+canonical_identifier: bkk:krp/KR6j0428/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0428/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 底哩三昧耶不動尊聖者念誦祕密法
+  identifiers:
+    krp: KR6j0428
+    cbeta: T21n1201
+    cbeta_old_id: T21n1201
+    authorityid: CA0000752
+    json_key: T1201
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1201.xml
+    old_id: T21n1201
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0428_000-T.yaml, hash: 'sha256:3dde60ab683d5300239526522ed30b4a8114c65d6e3fea1719b6cae9f787dad2'}
+  - {seq: 1, filename: KR6j0428_001-T.yaml, hash: 'sha256:a2ed882e686ad86649428ef71949e020e3ef9c113e547a1cd93452b3e7872f2e'}
+  - {seq: 2, filename: KR6j0428_002-T.yaml, hash: 'sha256:919571efb432ae03dbc8cd9544fb150c9f4ac19310f769b2c5c9f3e91a7ac879'}
+  - {seq: 3, filename: KR6j0428_003-T.yaml, hash: 'sha256:e3cb5a8ea3aa8d5534896129c87b3d44cd028b40bb50ecf627ff37b8f3c39d03'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0428_000-T.markers.yaml, hash: 'sha256:38e5922d884435a8862b14179afa8b504e2ab5c4234990463afe7bf00d19bb34'}
+  - {seq: 1, role: markers, filename: assets/KR6j0428_001-T.markers.yaml, hash: 'sha256:c7c86e1471ac49d277f89cf5ff790570906f15cdf3cc3ad6e1242afde6a9061a'}
+  - {seq: 2, role: markers, filename: assets/KR6j0428_002-T.markers.yaml, hash: 'sha256:6cca9f37368e9e3042830db897a9f56b46c11433693a17be2e21d1db834348d3'}
+  - {seq: 3, role: markers, filename: assets/KR6j0428_003-T.markers.yaml, hash: 'sha256:ca29c065fe2ccf17f6e45c97cfc85a697d5bbea156e7118f3bfe928adb631a33'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0428_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4190
+  label: '底哩三昧耶不動尊聖者念誦祕
+
+    密法卷上'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0428_T_001-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 1 本事神力息障祕要品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0428_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 4572
+  label: '底哩三昧耶不動尊聖者念誦祕
+
+    密法卷中'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0428_T_002-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 2 根本真言品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0428_T_002-mulu-2
+    span:
+    - body
+    - 900
+    - 900
+  label: 3 澡浴結護身品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0428_T_002-mulu-3
+    span:
+    - body
+    - 908
+    - 908
+  label: 1 無動金剛極安穩護身印明
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0428_T_002-mulu-4
+    span:
+    - body
+    - 1087
+    - 1087
+  label: 2 無動金剛洗浴結護八方印明
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0428_T_002-mulu-5
+    span:
+    - body
+    - 1160
+    - 1160
+  label: 3 無動金剛洗浴淨水印明
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0428_T_002-mulu-6
+    span:
+    - body
+    - 1250
+    - 1250
+  label: 4 不動金剛著甲印明
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0428_T_002-mulu-7
+    span:
+    - body
+    - 1344
+    - 1344
+  label: 5 不動金剛灌頂印明
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0428_T_002-mulu-8
+    span:
+    - body
+    - 1564
+    - 1564
+  label: 4 結護道場品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0428_T_002-mulu-9
+    span:
+    - body
+    - 1571
+    - 1571
+  label: 1 無動金剛三昧耶印明
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0428_T_002-mulu-10
+    span:
+    - body
+    - 1735
+    - 1735
+  label: 2 不動威怒辟除障難印明
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0428_T_002-mulu-11
+    span:
+    - body
+    - 1993
+    - 1993
+  label: 3 無動金剛能成就一切事業杵印明
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0428_T_002-mulu-12
+    span:
+    - body
+    - 2090
+    - 2090
+  label: 4 無動金剛牆印明
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0428_T_002-mulu-13
+    span:
+    - body
+    - 2169
+    - 2169
+  label: 5 無動金剛網印明
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0428_T_002-mulu-14
+    span:
+    - body
+    - 2249
+    - 2249
+  label: 6 無動金剛火焰印明
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0428_T_002-mulu-15
+    span:
+    - body
+    - 2336
+    - 2336
+  label: 5 供養品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0428_T_002-mulu-16
+    span:
+    - body
+    - 2341
+    - 2341
+  label: 1 無動金剛座印明
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0428_T_002-mulu-17
+    span:
+    - body
+    - 2447
+    - 2447
+  label: 2 一切如來所生印明
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0428_T_002-mulu-18
+    span:
+    - body
+    - 2835
+    - 2835
+  label: 3 大輪金剛懺悔印明
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0428_T_002-mulu-19
+    span:
+    - body
+    - 3034
+    - 3034
+  label: 4 無動金剛滿足印明
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0428_T_002-mulu-20
+    span:
+    - body
+    - 3199
+    - 3199
+  label: 5 塗香供養印明
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0428_T_002-mulu-21
+    span:
+    - body
+    - 3278
+    - 3278
+  label: 6 燒香供養印明
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0428_T_002-mulu-22
+    span:
+    - body
+    - 3335
+    - 3335
+  label: 7 華供養印明
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0428_T_002-mulu-23
+    span:
+    - body
+    - 3386
+    - 3386
+  label: 8 飲食供養印明
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0428_T_002-mulu-24
+    span:
+    - body
+    - 3448
+    - 3448
+  label: 9 燈供養印明
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0428_T_002-mulu-25
+    span:
+    - body
+    - 3499
+    - 3499
+  label: 10 普莊嚴供養明印
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0428_T_002-mulu-26
+    span:
+    - body
+    - 3791
+    - 3791
+  label: 11 無動金剛虛空部母印
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0428_T_002-mulu-27
+    span:
+    - body
+    - 3926
+    - 3926
+  label: 12 無動金剛法界生印明
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0428_T_002-mulu-28
+    span:
+    - body
+    - 4113
+    - 4113
+  label: 13 捻數珠明印
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0428_T_002-mulu-29
+    span:
+    - body
+    - 4224
+    - 4224
+  label: 14 無動金剛根本三昧耶印明
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0428_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 3015
+  label: '底哩三昧耶不動尊聖者念誦祕
+
+    密法卷下'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0428_T_003-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 1 無動金剛寶山印
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0428_T_003-mulu-2
+    span:
+    - body
+    - 50
+    - 50
+  label: 2 無動金剛頭印
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0428_T_003-mulu-3
+    span:
+    - body
+    - 86
+    - 86
+  label: 3 無動金剛髻印
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0428_T_003-mulu-4
+    span:
+    - body
+    - 143
+    - 143
+  label: 4 無動金剛眼印
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0428_T_003-mulu-5
+    span:
+    - body
+    - 169
+    - 169
+  label: 5 無動金剛口印
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0428_T_003-mulu-6
+    span:
+    - body
+    - 212
+    - 212
+  label: 6 無動金剛心印
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0428_T_003-mulu-7
+    span:
+    - body
+    - 248
+    - 248
+  label: 7 無動金剛師子奮迅印
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0428_T_003-mulu-8
+    span:
+    - body
+    - 301
+    - 301
+  label: 8 無動金剛火印
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0428_T_003-mulu-9
+    span:
+    - body
+    - 337
+    - 337
+  label: 9 無動金剛法螺印
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0428_T_003-mulu-10
+    span:
+    - body
+    - 388
+    - 388
+  label: 10 無動金剛索印
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0428_T_003-mulu-11
+    span:
+    - body
+    - 584
+    - 584
+  label: 11 無動金剛解界明印
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0428_T_003-mulu-12
+    span:
+    - body
+    - 894
+    - 894
+  label: 12 無動金剛光莊嚴印明
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0428_T_003-mulu-13
+    span:
+    - body
+    - 1105
+    - 1105
+  label: 7 無動金剛事業求願品
+  type: mulu
+  level: 1
+hash: sha256:88d5d864aaf7dc8c80e554b12f187d556efc1806a48b5d4fbcebf1fb37532037

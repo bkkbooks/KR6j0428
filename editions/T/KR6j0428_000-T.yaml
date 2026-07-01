@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0428/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 底哩三昧耶不動尊聖者念誦祕密法
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1201.xml
+    old_id: T21n1201
+hash: sha256:3dde60ab683d5300239526522ed30b4a8114c65d6e3fea1719b6cae9f787dad2
