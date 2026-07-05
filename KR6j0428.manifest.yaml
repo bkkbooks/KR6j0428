@@ -34,13 +34,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0428_000.yaml, hash: 'sha256:3dde60ab683d5300239526522ed30b4a8114c65d6e3fea1719b6cae9f787dad2'}
-  - {seq: 1, filename: KR6j0428_001.yaml, hash: 'sha256:98a2a491d246af4ee53dc8771454541cc084471aa9d1a44d0da05d9cfdcf3fcc'}
-  - {seq: 2, filename: KR6j0428_002.yaml, hash: 'sha256:e26482d807f43ec5a02c5ff004e98862794895ac29e42aea6033b4d5a958693f'}
-  - {seq: 3, filename: KR6j0428_003.yaml, hash: 'sha256:ef535168f55b28cd53c3a1067bc8d590832ab9d1a43930400849ecee79cfcd04'}
+  - {seq: 1, filename: KR6j0428_001.yaml, hash: 'sha256:a2ed882e686ad86649428ef71949e020e3ef9c113e547a1cd93452b3e7872f2e'}
+  - {seq: 2, filename: KR6j0428_002.yaml, hash: 'sha256:919571efb432ae03dbc8cd9544fb150c9f4ac19310f769b2c5c9f3e91a7ac879'}
+  - {seq: 3, filename: KR6j0428_003.yaml, hash: 'sha256:e3cb5a8ea3aa8d5534896129c87b3d44cd028b40bb50ecf627ff37b8f3c39d03'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0428_001.markers.yaml, hash: 'sha256:d3c7110572bbabe6289aade7006d3bea402900c3c3613dae50299f5e5574b7ba'}
-  - {seq: 2, role: markers, filename: assets/KR6j0428_002.markers.yaml, hash: 'sha256:c6798b31be22894e64564da419aa7e7d3d0fec4153cb95db4a370ec2b4c17799'}
-  - {seq: 3, role: markers, filename: assets/KR6j0428_003.markers.yaml, hash: 'sha256:926a1865c778773aa74af996dc6f9319d4126f870edd6fe64e9ad2ea455a1a52'}
+  - {seq: 0, role: markers, filename: assets/KR6j0428_000.markers.yaml, hash: 'sha256:a4489eb22a1ed2eab280c22c5e7c75ddb53c3995ad1fce41e891a010e03e752b'}
+  - {seq: 1, role: markers, filename: assets/KR6j0428_001.markers.yaml, hash: 'sha256:ade2b6a5e5b6fd6919a0a6ffeea36bee61243b603330bb824f9386f091f1990f'}
+  - {seq: 2, role: markers, filename: assets/KR6j0428_002.markers.yaml, hash: 'sha256:575bdd4d3565b2961a055246a8b334e1433f0c93b3838c1e0eba8adfb16fe1f9'}
+  - {seq: 3, role: markers, filename: assets/KR6j0428_003.markers.yaml, hash: 'sha256:788608f9c14bcf52f0376bcb6197bccf3ae6001de03f621e9602be58b12133ab'}
 table_of_contents:
 - ref:
     seq: 1
@@ -508,7 +509,4 @@ table_of_contents:
   label: 7 無動金剛事業求願品
   type: mulu
   level: 1
-hash: sha256:3b34ffcfe41e1c23b74c7583a6b49b8d3a1863d1c8e37b65ae95b38f646f2578
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:08b4d7a1eb902dc23d53cdde27a45215ddb3c23914ecbc9029eb6e50032267cb
