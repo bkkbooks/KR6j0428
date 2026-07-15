@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0428/v1
 canonical_location: https://kanripo.org/bkk/KR6j0428/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 底哩三昧耶不動尊聖者念誦祕密法
   identifiers:
@@ -34,14 +34,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0428_000.yaml, hash: 'sha256:3dde60ab683d5300239526522ed30b4a8114c65d6e3fea1719b6cae9f787dad2'}
-  - {seq: 1, filename: KR6j0428_001.yaml, hash: 'sha256:a2ed882e686ad86649428ef71949e020e3ef9c113e547a1cd93452b3e7872f2e'}
-  - {seq: 2, filename: KR6j0428_002.yaml, hash: 'sha256:919571efb432ae03dbc8cd9544fb150c9f4ac19310f769b2c5c9f3e91a7ac879'}
-  - {seq: 3, filename: KR6j0428_003.yaml, hash: 'sha256:e3cb5a8ea3aa8d5534896129c87b3d44cd028b40bb50ecf627ff37b8f3c39d03'}
+  - {seq: 1, filename: KR6j0428_001.yaml, hash: 'sha256:20519e92b913924156ea7e220dd1c2e728a39504846587116fdb8f13897f34fc'}
+  - {seq: 2, filename: KR6j0428_002.yaml, hash: 'sha256:2c5749114c365a68408ced1b3843da675829487fedd2d175e99b45416ddace4f'}
+  - {seq: 3, filename: KR6j0428_003.yaml, hash: 'sha256:011325a71fcdf923f81b84b8f3ff654074253555222061912d127fcf687f59f6'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0428_000.markers.yaml, hash: 'sha256:a4489eb22a1ed2eab280c22c5e7c75ddb53c3995ad1fce41e891a010e03e752b'}
-  - {seq: 1, role: markers, filename: assets/KR6j0428_001.markers.yaml, hash: 'sha256:ade2b6a5e5b6fd6919a0a6ffeea36bee61243b603330bb824f9386f091f1990f'}
-  - {seq: 2, role: markers, filename: assets/KR6j0428_002.markers.yaml, hash: 'sha256:575bdd4d3565b2961a055246a8b334e1433f0c93b3838c1e0eba8adfb16fe1f9'}
-  - {seq: 3, role: markers, filename: assets/KR6j0428_003.markers.yaml, hash: 'sha256:788608f9c14bcf52f0376bcb6197bccf3ae6001de03f621e9602be58b12133ab'}
+  - {seq: 1, role: markers, filename: assets/KR6j0428_001.markers.yaml, hash: 'sha256:40ec1f45948170c99fd9cd18493853ca69fd51dd3db1b3f7209c877fc954e228'}
+  - {seq: 2, role: markers, filename: assets/KR6j0428_002.markers.yaml, hash: 'sha256:cd197127628018ad4a8dfd25ebbb700a8b6365284540848928569d9a014c514a'}
+  - {seq: 3, role: markers, filename: assets/KR6j0428_003.markers.yaml, hash: 'sha256:aca931c9a76d31371b49d1ae357ba21d2efe962f4a47858ad45ccc42b77ab7d0'}
 table_of_contents:
 - ref:
     seq: 1
@@ -509,4 +509,7 @@ table_of_contents:
   label: 7 無動金剛事業求願品
   type: mulu
   level: 1
-hash: sha256:08b4d7a1eb902dc23d53cdde27a45215ddb3c23914ecbc9029eb6e50032267cb
+hash: sha256:043b9402646f34521a2ce28631bd35c386c12f4c33455b0290450f70da10a408
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
